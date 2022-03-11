@@ -114,9 +114,6 @@
     margin-top: 70px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
- 
 }
 .container_img_service{
     margin-bottom: 27px;
@@ -146,10 +143,4 @@ h4{
 .box_text_detail{
     width: 363px;
     margin-left:62px;
-}
-.container_ecoute{
-    margin-bottom: 51px;
-}
-.container_mesure{
-    margin-bottom: 63px;
 }

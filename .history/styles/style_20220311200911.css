@@ -113,13 +113,6 @@
 .container_description_service{
     margin-top: 70px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
- 
-}
-.container_img_service{
-    margin-bottom: 27px;
 }
 .container_text_service{
     width: 589px;
@@ -129,6 +122,7 @@ h4{
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
+    margin-top: 27px;
     margin-bottom: 20px;
 }
 .description_service{
@@ -136,7 +130,6 @@ h4{
 }
 .detail_service_container{
     display: flex;
-    align-items:center
 }
 .link_service{
     color: #29ABB7;
@@ -146,10 +139,4 @@ h4{
 .box_text_detail{
     width: 363px;
     margin-left:62px;
-}
-.container_ecoute{
-    margin-bottom: 51px;
-}
-.container_mesure{
-    margin-bottom: 63px;
 }
