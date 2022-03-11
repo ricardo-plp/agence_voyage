@@ -1,0 +1,161 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');/* Kalam */
+
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+.destination_container{
+    padding: 0px 121px;
+    margin-top: 30px;
+}
+
+
+.title{
+    font-size: 42px;
+    color: #29ABB7 ;
+    font-family: 'Kalam', cursive;
+}
+
+.title_header{
+    margin-bottom: 26px;
+}
+
+.description{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: #575757;
+    font-weight: lighter;
+}
+.box_destination{
+    margin-top: 40px;
+    width: 100%;
+
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.title_destination_container{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.icon_destination{
+    margin-right: 8px;
+}
+.card_destination{
+    width: 267px;
+    height: 371px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    font-weight: 300;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card_destination_1{
+    background-image: url('../images/australie.png');
+ 
+}
+.card_destination_2{
+    background-image: url('../images/maldives.png');     
+}
+.card_destination_3{
+    background-image: url('../images/Tanzanie.png');     
+}
+.card_destination_4{
+    background-image: url('../images/Thailande.png');     
+}
+
+.container_description{
+    padding: 0 10px;
+    position: absolute;
+    bottom: 16px;
+}
+.container .span{
+    background-color: red;
+}
+.title_destination{
+    font-weight: 500;
+}
+.text_description_destination{
+    color: white;
+    font-weight: 500;
+    font-size: 12px;
+    width: 238px;
+}
+.description_destination{
+    margin-bottom: 8px;
+}
+
+/* SERVICE CONTAINER */
+
+.service_container{
+    padding: 0px 121px;
+    margin-top: 60px;
+}
+.box_title_service{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box_title_service h2{
+    margin-bottom: 20px;
+}
+.container_description_service{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container_img_service{
+    margin-bottom: 27px;
+}
+.container_text_service{
+    width: 589px;
+}
+h4{
+    color: #29ABB7;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.description_service{
+    margin-bottom: 10px;
+}
+.detail_service_container{
+    display: flex;
+    align-items:center
+}
+.link_service{
+    color: #29ABB7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+.box_text_detail{
+    width: 363px;
+    margin-left:62px;
+}
+.container_ecoute{
+    margin-bottom: 51px;
+}
+.container_mesure{
+    margin-bottom: 63px;
+}
+
+/* DEVIS */
+
+.left_container_devis{
+    width: 802px;
+    height: 470px;
+}
