@@ -110,7 +110,7 @@
     }
   }
 
-  @media screen and (min-width: 1700px) and (max-width: 2000px)  {
+  @media screen and (max-width: 1900px) {
     .destination_container{
         padding: 0px 320px;
         margin-top: 30px;
@@ -177,7 +177,7 @@ h4{
 .container_mesure{
     margin-bottom: 63px;
 }
-@media screen and (min-width: 1700px) and (max-width: 2000px)  {
+@media screen and (max-width: 1300px) {
     .container_description_service{
         display: flex;
         justify-content: center;
@@ -228,7 +228,7 @@ h4{
         padding: 0px 20px;
     }
   }
-  @media screen and (min-width: 1700px) and (max-width: 2000px)  {
+  @media screen and (max-width: 1900px) {
     .service_container{
         padding: 0px 320px;
         margin-top: 30px;
@@ -387,7 +387,7 @@ h4{
         padding: 0 20px;
     }
   }
-  @media screen and  (min-width: 1700px) and (max-width: 2000px)   {
+  @media screen and (max-width: 2000px) and (max-width: 2000px)  {
     .section_list{
         padding: 0px 320px;
         margin-top: 30px;
